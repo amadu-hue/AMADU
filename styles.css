@@ -1,0 +1,38 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+.AMADU-1{
+    height: 30px;
+}
+
+.first-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(221, 214, 214);
+    align-items: center;
+
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
+img{
+    size: 2px;
+}
+
+ul{
+    justify-content: center;
+    display: flex;
+}
+li{
+    margin: 20px;
+    list-style-type: none;
+}
